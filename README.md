@@ -16,7 +16,7 @@ CTBaratao Darwin é um aplicativo desenvolvido para macOS, direcionado para gere
 
 ## Instalação
 
-1. Baixe o instalador
-2. Execute o instalador
-3. Aguarde a instalação
-4. O aplicativo abrirá automáticamente.
+1. Baixe a imagem .dmg
+2. Monte a imagem 
+3. Arraste o aplicativo CTBaratao para a pasta "Aplicativos"
+4. Abra o aplicativo.
